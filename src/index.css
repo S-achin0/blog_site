@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+  margin: 0%;
+  font-family:"Poopins";
+  color:grey;
+}
+ 
+.navbar{
+  padding:  20 px ;
+  display:flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 10px  auto;
+  border-bottom: 1px solid whitesmoke;
+  
+}
+  .navbar h1{
+    color: red;
+  }
+ .navbar .links{
+  margin-left: auto;
+
+
+}
+.navbar a{
+  margin: left 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover{
+  color :red;
+}
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding :20px;
+}
+h1{
+  color: red;
+}
+ .blog-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom :1px rgba(0, 0, 0, 0.792);
+  border-radius: 8px;
+ }
+ .blog-preview:hover{
+  box-shadow: 1px 3px 5px 1px rgba(0, 0, 0, 0.727);
+ }
+ .blog-preview h2{
+  margin:3px auto;
+  color :red;
+; }
+.blog-preview a{
+  text-decoration: none;
+}
+.title{
+  color: red;
+}
+.tbox{
+  display: block;
+
+}
+.abox{
+  display: block;
+}
+.bbox{
+  display: block;
+  
+}
+textarea{
+  min-width:500px;
+  min-height: 350px;
+  background-color:transparent;
+  font-size: large;
+  color: black;
+  motion: reverse;
+  border-radius: 10px;
+   
+  
+}
+button{
+  display: block;
+  color: white;
+  background-color:hsl(0, 100%, 50%);
+  position: relative;
+  left: 200px;
+  border-radius: 5px;
+  
+  
+}
+input{
+  background-color: transparent;
+  font-size: large;
+  color: black;
+  min-width: 400px;
+  min-height:30px;
+  border-radius: 8px;
+}
+  

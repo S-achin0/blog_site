@@ -1,0 +1,76 @@
+{
+  "blogs": [
+    {
+      "tiltle": "Agri sensors",
+      "body": "   The continued growth of the Agri-food sector must be based on sustainable intensification, a concept included in the conclusions of the October 2014 EU Council on the 2030 EU Climate and Energy Policy Framework.10 Producers must play a positive role in the protection of landscapes, waterway biodiversity and water quality while also increasing production. This will require that the investment in monitoring systems and science-based research programs must be undertaken to develop cutting-edge technologies that address current limitations in the production system. A key challenge with the current system is the difficulty of transforming scientific research into commercial returns. Improved knowledge transfer to all actors along the supply chain is required and the involvement of private enterprise with the required capacity to absorb new research and innovation will be critical to translate research outcomes and enable the rollout and uptake of new commercial technological products and processes.              ",
+      "author": "sachin",
+      "id": 1
+    },
+    {
+      "tiltle": "aryan's blog",
+      "body": "i have never written any book  in my whole life",
+      "author": "aryan",
+      "id": 2
+    },
+    {
+      "tiltle": "chichi's blog",
+      "body": "i have never written any article in my whole life",
+      "author": "chichi",
+      "id": 3
+    },
+    {
+      "tiltle": "JOB SECURITY",
+      "body": "After covid alot people are losing there jobs and every corporate employ is scared of  losing his/her job",
+      "author": "SACHIN",
+      "id": 4
+    },
+    {
+      "tiltle": "sachin",
+      "body": "sachin kumar",
+      "author": "sachin",
+      "id": 5
+    },
+    {
+      "tiltle": "dream",
+      "body": "DREAM ",
+      "author": "SACHIN",
+      "id": 6
+    },
+    {
+      "tiltle": "project problem",
+      "body": "project behaving very strangly need to do it again from scratch",
+      "author": "sachin",
+      "id": 7
+    },
+    {
+      "tiltle": "Interview",
+      "body": "we should enjoy the process other wise after reaching the destination we will not be happy as we have no happy memory of our journey",
+      "author": "Sachin",
+      "id": 8
+    },
+    {
+      "tiltle": "once again",
+      "body": "why i should write even i do not want to write",
+      "author": "sachin",
+      "id": 9
+    },
+    {
+      "tiltle": "future",
+      "body": "will see you",
+      "author": "sachin",
+      "id": 10
+    },
+    {
+      "tiltle": "internship",
+      "body": "iterview level is neccesary",
+      "author": "sachin",
+      "id": 11
+    },
+    {
+      "tiltle": "ayush",
+      "body": "what I should write i have no idea one day i will write more when i have time to write",
+      "author": "ayush",
+      "id": 12
+    }
+  ]
+}
